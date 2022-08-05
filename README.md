@@ -1,2 +1,4 @@
 # Customers-Personality-Analysis-Project
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
+# Discussion of Findings
+So far so good, we have explored our dataset by looking at univariate, bivariate and multivariate exploration. We discovered someinteresting features from the dataset. Some of them are; Customers' income is positively related to their educational status'. The income of a customer will determine how much he would spend on different products. Most customers receives income between 10,000 and 100,000. There is decrease in the amount spent by customers on products from 2012 to 2014.
